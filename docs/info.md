@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Se define la llave de seguridad utilizando GNDs y VCC, utilizando XNORs se compara la entrada cargada a los Flip Flops con esta llave de seguridad. La salida es 1 sí y sólo sí todas las entradas cargadas coinciden con la llave de seguridad.
 
 ## How to test
 
