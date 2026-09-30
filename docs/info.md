@@ -13,8 +13,8 @@ Se define la llave de seguridad utilizando GNDs y VCC, utilizando XNORs se compa
 
 ## How to test
 
-Explain how to use your project
+Simular, cambiar la entrada cargada modificando el pin1 del switch de 8 pines y haciendo pasar el clock con el botón Step.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
