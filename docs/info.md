@@ -13,7 +13,7 @@ Se define la llave de seguridad 1001, utilizando ANDs y NOTs se compara la entra
 
 Se utiiza display tipo catódico. Al modificar los switches 1, 2, y 3, se obtiene en el display el número [SWITCH_1] * 1 + [SWITCH_2] * 2 + [SWITCH_3] * 4.
 Donde [SWITCH_n] es 0 cuando está desactivado y 1 cuando está activado el switch n.
-
+476596711437681665
 
 ## How to test
 Simular, cambiar la entrada cargada modificando el pin1 del switch de 8 pines y haciendo pasar el clock con el botón Step.
